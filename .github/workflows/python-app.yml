@@ -29,4 +29,4 @@ jobs:
         pip install Flask
     - name: Run server
       run: |
-        server.py
+        python server.py
